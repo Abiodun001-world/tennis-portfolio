@@ -46,6 +46,7 @@ nav {
 
 nav h1 {
   color: var(--primary-color);
+  cursor: pointer;
 }
 
 nav ul {
